@@ -1,0 +1,1 @@
+# sql-weekly-challenge-practice
